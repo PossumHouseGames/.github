@@ -1,6 +1,6 @@
 # Possum House Games
 
-Greetings, welcome to our github organization.
+Greetings, welcome to our github organization 👋
 
 We are an indie development studio that focuses on small titles with experimental and fresh mechanics.
 
