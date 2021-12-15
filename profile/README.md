@@ -1,4 +1,4 @@
-# Possum House Games
+![Possum House Games](/images/possum.gif)
 
 Greetings, welcome to our github organization 👋
 
