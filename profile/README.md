@@ -1,5 +1,5 @@
-![Possum House Games](/images/possum.gif)
-
+![Possum House Games](/images/possum.gif#gh-light-mode-only)
+![Possum House Games](/images/possum.gif#gh-dark-mode-only){: style="invert(1)"}
 Greetings, welcome to our github organization 👋
 
 We are an indie development studio that focuses on small titles with experimental and fresh mechanics.
